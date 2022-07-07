@@ -208,6 +208,15 @@
     "settings.headerForeground": "#7a9ca0",
     "settings.modifiedItemIndicator": "#4cc48c",
 
+    "gitDecoration.ignoredResourceForeground": "#2c6970",
+    "gitDecoration.addedResourceForeground": "#6aa85d",
+    "gitDecoration.deletedResourceForeground": "#a85d5d",
+    "gitDecoration.modifiedResourceForeground": "#b3915f",
+    "gitDecoration.untrackedResourceForeground": "#7580b1",
+    "editorGutter.addedBackground": "#6aa85d",
+    "editorGutter.deletedBackground": "#a85d5d",
+    "editorGutter.modifiedBackground": "#b3915f",
+
     // Terminal
     "panelTitle.activeForeground": "#4cc48c",
     "panelTitle.activeBorder": "#00000000",
@@ -349,7 +358,7 @@
       "name": "strings",
       "scope": ["string", "markup.inline.raw.string", "markup.fenced_code.block"],
       "settings": {
-        "foreground": "#81a552"
+        "foreground": "#85a35e"
       }
     },
     {
@@ -361,7 +370,7 @@
     {
       "scope": ["constant", "keyword.other.unit.hexadecimal", "fenced_code.block.language"],
       "settings": {
-        "foreground": "#a1925e"
+        "foreground": "#a8985e"
       }
     },
     {
