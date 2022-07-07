@@ -1,0 +1,39 @@
+{
+  "name": "ocean-green",
+  "displayName": "Ocean Green",
+  "description": "Ocean Green Theme",
+  "publisher": "jovejonovski",
+  "license": "MIT",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color scheme",
+    "dark",
+    "ocean green"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "OceanGreen: Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/datyin/theme-ocean-green/issues",
+    "email": "jovejonovski@gmail.com"
+  },
+  "homepage": "https://github.com/datyin/theme-ocean-green",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datyin/theme-ocean-green"
+  }
+}
