@@ -85,6 +85,8 @@
     "editorWidget.foreground": "#768e91",
     "editorWidget.background": "#162122",
     "editorWidget.border": "#192527",
+    "debugToolBar.background": "#162122",
+    "debugToolBar.border": "#192527",
 
     // List widget titlebar
     "quickInputTitle.background": "#1d2d2e",
@@ -171,16 +173,19 @@
     "statusBar.noFolderForeground": "#577477",
     "statusBar.noFolderBackground": "#111a1b",
     "statusBar.noFolderBorder": "#131d1f",
+    "statusBar.debuggingForeground": "#fff",
+    "statusBar.debuggingBackground": "#614a60",
+    "statusBar.debuggingBorder": "#755974",
 
     // Inputs
     "button.background": "#4cc48c8e",
     "button.secondaryBackground": "#1e2c2e",
 
-    "extensionSponsorButton.background": "#613f5e",
-    "extensionSponsorButton.hoverBackground": "#724a6f",
+    "extensionIcon.starForeground": "#c4a259",
+    "extensionIcon.sponsorForeground": "#b66eb6",
 
-    "badge.background": "#4cc48c5e",
-    "activityBarBadge.background": "#4cc48c5e",
+    "badge.background": "#0f633c",
+    "activityBarBadge.background": "#0f633c",
 
     "inputOption.activeBackground": "#00000000",
     "inputOption.activeForeground": "#4cc48c",
