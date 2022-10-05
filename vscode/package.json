@@ -15,11 +15,17 @@
     "theme",
     "color scheme",
     "dark",
+    "light",
     "ocean green"
   ],
   "icon": "icon.png",
   "contributes": {
     "themes": [
+      {
+        "label": "OceanGreen: Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-color-theme.json"
+      },
       {
         "label": "OceanGreen: Dark",
         "uiTheme": "vs-dark",
