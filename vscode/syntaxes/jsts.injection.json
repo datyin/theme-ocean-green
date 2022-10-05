@@ -1,0 +1,13 @@
+{
+  "scopeName": "jsts.injection",
+  "injectionSelector": "L:source.ts",
+  "patterns": [
+    { "include": "#classes" }
+  ],
+  "repository": {
+    "classes": {
+      "name": "support.class.ts",
+      "match": "(?<=new\\s)([_$[:alnum:]]+)\\b(?!\\$)"
+    }
+  }
+}
