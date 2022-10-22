@@ -4,7 +4,7 @@
   "description": "Ocean Green Theme",
   "publisher": "jovejonovski",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -24,13 +24,6 @@
         "label": "Ocean Green: Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
-      }
-    ],
-    "grammars": [
-      {
-        "injectTo": ["source.js", "source.ts"],
-        "scopeName": "jsts.injection",
-        "path": "./syntaxes/jsts.injection.json"
       }
     ]
   },
