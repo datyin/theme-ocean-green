@@ -4,7 +4,7 @@
   "description": "Ocean Green Theme",
   "publisher": "jovejonovski",
   "license": "MIT",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.65.0"
   },
