@@ -11,6 +11,10 @@
     "selection.background": "#9debff18",
     "progressBar.background": "#20d18d",
 
+    "banner.background": "#233536",
+    "banner.foreground": "#80a8b1",
+    "banner.iconForeground": "#80a8b1",
+
     // #region Window
     "window.activeBorder": "#1d2d2e",
     "window.inactiveBorder": "#1d2d2e",
@@ -144,7 +148,7 @@
     "tab.activeBorderTop": "#20d18d",
     "tab.activeBackground": "#172324",
     "tab.activeForeground": "#20d18d",
-    "tab.inactiveForeground": "#587379",
+    "tab.inactiveForeground": "#72a3a5",
     "tab.inactiveBackground": "#172324",
 
     "editorGroup.border": "#1d2d2e",
